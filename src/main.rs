@@ -20,6 +20,4 @@ fn main() {
     let path_taken = Solution::min_operations(dir_ops);
 
     println!("The path travelled through your local directory has a depth of {}", path_taken);
-
-
 }
